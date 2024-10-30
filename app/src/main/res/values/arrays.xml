@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tinh_thanh_array">
+        <item>Hà Nội</item>
+        <item>TP. Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Phòng</item>
+        <item>Cần Thơ</item>
+    </string-array>
+    <string-array name="quan_huyen_array">
+        <item>Quận Ba Đình</item>
+        <item>Quận Hoàn Kiếm</item>
+        <item>Quận Hai Bà Trưng</item>
+        <item>Quận Đống Đa</item>
+        <item>Quận Tây Hồ</item>
+        <item>Quận Cầu Giấy</item>
+        <item>Quận Thanh Xuân</item>
+        <item>Quận Hoàng Mai</item>
+        <item>Quận Long Biên</item>
+        <item>Huyện Từ Liêm</item>
+        <item>Huyện Thanh Trì</item>
+        <item>Huyện Gia Lâm</item>
+        <item>Huyện Đông Anh</item>
+        <item>Huyện Sóc Sơn</item>
+        <item>Quận 1</item>
+        <item>Quận 2</item>
+        <item>Quận 3</item>
+        <item>Quận 4</item>
+        <item>Quận 5</item>
+        <item>Quận 6</item>
+        <item>Quận 7</item>
+        <item>Quận 8</item>
+        <item>Quận 9</item>
+        <item>Quận 10</item>
+        <item>Quận 11</item>
+        <item>Quận 12</item>
+        <item>Thủ Đức</item>
+        <item>Bình Tân</item>
+        <item>Tân Phú</item>
+        <item>Gò Vấp</item>
+        <item>Phú Nhuận</item>
+        <item>Bình Thạnh</item>
+        <item>Tân Bình</item>
+        <item>Huyện Bình Chánh</item>
+        <item>Huyện Hóc Môn</item>
+        <item>Huyện Củ Chi</item>
+        <item>Huyện Nhà Bè</item>
+        <item>Huyện Cần Giờ</item>
+    </string-array>
+
+    <string-array name="phuong_xa_array">
+        <item>Phường Phúc Xá</item>
+        <item>Phường Trúc Bạch</item>
+        <item>Phường Vĩnh Phúc</item>
+        <item>Phường Cống Vị</item>
+        <item>Phường Liễu Giai</item>
+        <item>Phường Nguyễn Trung Trực</item>
+        <item>Phường Quán Thánh</item>
+        <item>Phường Ngọc Hà</item>
+        <item>Phường Điện Biên</item>
+        <item>Phường Đội Cấn</item>
+        <item>Phường Ngọc Khánh</item>
+        <item>Phường Kim Mã</item>
+        <item>Phường Giảng Võ</item>
+        <item>Phường Láng Thượng</item>
+        <item>Phường Thổ Quan</item>
+        <item>Phường Khâm Thiên</item>
+        <item>Phường Ô Chợ Dừa</item>
+        <item>Phường Văn Miếu</item>
+        <item>Phường Quốc Tử Giám</item>
+        <item>Phường Hàng Bột</item>
+        <item>Phường Nam Đồng</item>
+        <item>Phường Trung Liệt</item>
+        <item>Phường Phương Liên</item>
+        <item>Phường Khương Thượng</item>
+        <item>Phường Ngã Tư Sở</item>
+        <item>Phường Thịnh Liệt</item>
+        <item>Phường Yên Sở</item>
+        <item>Phường Hoàng Liệt</item>
+        <item>Phường Thanh Trì</item>
+        <item>Phường Vĩnh Hưng</item>
+        <item>Phường Định Công</item>
+        <item>Phường Đại Kim</item>
+        <item>Phường Hoàng Văn Thụ</item>
+        <item>Phường La Khê</item>
+        <item>Xã Tân Triều</item>
+        <item>Xã Thanh Liệt</item>
+        <item>Xã Tả Thanh Oai</item>
+        <item>Xã Hữu Hòa</item>
+        <item>Xã Tam Hiệp</item>
+        <item>Xã Liên Ninh</item>
+        <item>Xã Ngọc Hồi</item>
+        <item>Xã Vĩnh Quỳnh</item>
+        <item>Xã Ngũ Hiệp</item>
+        <item>Xã Duyên Hà</item>
+        <item>Xã Đông Dư</item>
+        <item>Xã Đa Tốn</item>
+        <item>Xã Kiêu Kỵ</item>
+        <item>Xã Bát Tràng</item>
+        <item>Xã Kim Lan</item>
+        <item>Xã Văn Đức</item>
+    </string-array>
+</resources>
