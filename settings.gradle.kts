@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Information Form"
+rootProject.name = "Form"
 include(":app")
  

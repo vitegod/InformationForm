@@ -1,14 +1,14 @@
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.jetbrains.kotlin.android)
 }
 
 android {
-    namespace = "com.example.informationform"
+    namespace = "com.anbinh.form"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.informationform"
+        applicationId = "com.anbinh.form"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
